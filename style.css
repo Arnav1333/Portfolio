@@ -404,7 +404,7 @@ header {
     background-color: #87C4FF;
     max-width: 10000px; 
     margin: 0 auto; 
-    width:100%;
+    width:115%;
 }
 
 
@@ -427,6 +427,8 @@ main {
 
 .content-left {
     width: 100%; 
+    margin-left:32px;
+
 }
 
 .content-left .resume-button {
@@ -488,6 +490,10 @@ main {
         flex-direction: column;
         justify-content: space-around;
         text-align: left;
+
+    }
+    .abt-right{
+        margin:18px;
     }
     .abt-left img{
         height:20rem;
@@ -511,7 +517,7 @@ main {
     
     .work{
         position:absolute;
-        top:2600px;
+        top:2800px;
         left:20px;
     }
     .work-container{
@@ -543,7 +549,7 @@ main {
     }
     footer{
         position:absolute;
-        top:4060px;
+        top:4260px;
         width:  410px;
     }
 
