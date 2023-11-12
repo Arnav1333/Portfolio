@@ -404,7 +404,7 @@ header {
     background-color: #87C4FF;
     max-width: 10000px; 
     margin: 0 auto; 
-    width:115%;
+    width:105%;
 }
 
 
@@ -518,7 +518,7 @@ main {
     
     .work{
         position:absolute;
-        top:2900px;
+        top:3000px;
         left:20px;
     }
     .work-container{
@@ -550,8 +550,8 @@ main {
     }
     footer{
         position:absolute;
-        top:4360px;
-        width:  413px;
+        top:4460px;
+        width:105%;
     }
 
 }
