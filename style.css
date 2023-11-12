@@ -423,6 +423,7 @@ main {
     padding: 15px 0;
     border: none;
     border-radius: 40px;
+    margin-left: 20px;
 }
 
 .content-left {
@@ -517,7 +518,7 @@ main {
     
     .work{
         position:absolute;
-        top:2800px;
+        top:2900px;
         left:20px;
     }
     .work-container{
@@ -549,8 +550,8 @@ main {
     }
     footer{
         position:absolute;
-        top:4260px;
-        width:  410px;
+        top:4360px;
+        width:  413px;
     }
 
 }
